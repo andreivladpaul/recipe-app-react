@@ -1,0 +1,23 @@
+.form {
+    margin: 0;
+    position: relative;
+    width: 100%;
+}
+.search__form {
+    border: none;
+    width: 80%;
+    background: black;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    padding: 5px 50px;
+    border: none;
+    border-radius: 1rem;
+    outline: none;
+}
+svg {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translate(100%, -50%);
+    color: white;
+}

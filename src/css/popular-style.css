@@ -1,0 +1,14 @@
+.popular {
+    display: flex;
+    flex-direction: column;
+    content: "";
+    clear: both;
+    display: table;
+}
+a {
+    max-width: 400px;
+}
+
+.splide__slide{
+    max-width: 400px !important;
+}
